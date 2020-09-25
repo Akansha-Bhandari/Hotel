@@ -1,0 +1,33 @@
+body{
+font-family: 'Cinzel', serif;
+}
+
+.jumbotron{
+	background-color: #003d66;
+	color: white;
+}
+
+h1{
+	font-size: 100px;
+	background-color: #003d66;
+	color : white;
+	text-align: center;
+	margin: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.container{
+	margin-top: 40px;
+}
+.col{
+	padding-right: 30px;
+}
+h3{
+	font-size: 50px;
+
+}
+
+img{
+	height: 220px;
+	width: 320px;
+}
